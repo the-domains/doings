@@ -1,0 +1,14 @@
+layout_spectrum: 0.21212478005327284
+typography_spectrum: 0.5478188570123166
+color:
+  brandStrength: 0.996682564727962
+  lightness: 0.1754155308008194
+  saturation: 0.007365658646449447
+  rhythmicContrast: 0.6541689331643283
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+name: doings
